@@ -1,0 +1,50 @@
+Thank you for downloading this Java program
+This is my first attempt to write a java program, and I hope that it worths :-)
+
+With this program you can make a hotlink button using java language.
+
+
+This program is *F*R*E*E* for everyone as long as you keep these simple rules:
+
+1) DON'T charge for it
+2) Send me an e-mail if you like it
+3) Keep all these files together (except DemoWoW.HTML)
+4) If you use it in a commercial program / site first contact me and ask my permission
+5) I am not responsible for any hazard this programm will use (although I don't thing it will make any)
+6) You don't decompile it and change the code
+7) -once more- DON'T charge for it
+
+The files in this archive (WoW.zip) are:
+WoW.class       The program
+DemoWoW.html    An HTML file, to demostrate the use of this program
+readme.txt      This file
+
+
+The parameters which this applet use in HTML tags are:
+
+
+ URL            The relative address of the new document
+ Target         The browser target window to jump 
+ TextDown       Text when mouse button is pressed
+ TextUp         Text when mouse button is not presse
+ SizePer        Size of inner circle. Number between 0.000 and 1.000
+ FontStyle      Style of font (PLAIN, BOLD, ITALIC)
+ FontSize       Size of fon
+ Peaks          Number of peaks
+ FontName       Font to use
+ FontCol        Colour of text
+ GraphCol       Colour of graph
+ BackCol        Colour of the background
+
+You can ommit as many parameters as you want. Then the default parameters will be used.
+To set the colours, use this formula:
+color = 65536*RED + 256*GREEN + BLUE
+where RED, GREEN and BLUE are integer values between 0 and 255.
+
+
+To see a demo use of this program, look at DemoWoW.html
+
+Thank you
+
+Panos Katsaloulis
+Teras@Writeme.com
